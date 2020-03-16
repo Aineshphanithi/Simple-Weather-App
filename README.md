@@ -1,6 +1,6 @@
 # WeatherApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3. The additional tools used are bootstrap and the APIXU API.
 
 ## Development server
 
